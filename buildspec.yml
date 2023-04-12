@@ -1,4 +1,4 @@
-version: 0.2
+buildspace.yml code version: 0.2
 
 phases:
     install:
@@ -15,4 +15,4 @@ phases:
             - echo configured
 artifacts:
     files:
-        - '**/*'
+        - '**/*'
